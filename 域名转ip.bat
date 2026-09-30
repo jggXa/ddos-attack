@@ -1,2 +1,1 @@
-
-python d.py
+python ip.py
